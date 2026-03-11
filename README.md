@@ -1,1 +1,0 @@
-# mad2-placement-portal
